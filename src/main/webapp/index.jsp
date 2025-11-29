@@ -53,6 +53,7 @@
         <li>Amélioration de l'interface utilisateur</li>
         <li>Nouvelles couleurs et styles</li>
         <li>Meilleure expérience utilisateur</li>
+        <li>good</li>
     </ul>
 </div>
 </body>
